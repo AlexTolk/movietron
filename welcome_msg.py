@@ -1,0 +1,10 @@
+def welcome_message():
+    print("#                                #")
+    print("#________________________________#")
+    print("# *            *          *      #")
+    print("#       *                        #")
+    print("#    Welcome to use MOVIETRON    #")
+    print("#           *       *            #")
+    print("#     *       *              *   #")
+    print("# ______________________________ #")
+    print("#                                #")
